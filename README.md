@@ -1,6 +1,6 @@
 # AI Caption generator 
 
-##genreate best caption generator in one click
+## Genreate best caption generator in one click
 
 ## Getting started
 To create a new project, you go to `/paths`, choose from our list of Paths, and then use Cursor's Composer feature to quickly scaffold your project!
